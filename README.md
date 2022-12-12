@@ -18,7 +18,7 @@ nd files, then it will place them in the path
     git clone https://github.com/zsh4k/nodeinstaller.git
     cd nodeinstaller
     sudo chmod +x ./index.sh
-    ./index.sh
+    source ./index.sh
 ```
 
 > 1 Clone repository
